@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+- Command: rails g scaffold_controller User name:string email:string birth_date:date
